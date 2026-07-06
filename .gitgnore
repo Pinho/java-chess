@@ -1,0 +1,19 @@
+# Arquivos compilados (Java 8)
+bin/
+*.class
+*.jar
+
+# Configurações do Eclipse / Red Hat (VS Code)
+.settings/
+.classpath
+.project
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+modules.xml
+workspace.xml
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
